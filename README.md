@@ -8,4 +8,6 @@
 
 'Probbase' is the matrix of condictional probabilities, $\Pr(s|c)$, that is the symptom-cause information for the InSilicoVA and InterVA algorithms that automate cause classification for verbal autopsy data using standard WHO verbal autopsy instruments.
 
+The data file is in the R data format.
+
 
